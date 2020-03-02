@@ -1,11 +1,12 @@
-title: John Doe # your name (or website title) here
+title: Rodrigo Lima # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Data Scientist at Unimed Blumenau
   <br><br>
-  Second description 
+  Fornecer soluções orientadas a dados e resolução de problemas de negócios desafiadores. 
+  Sou Cientista de dados com capacidade demonstrada para fornecer informações valiosas através de análise de dados e métodos avançados baseados em dados. Meu foco está em resolver problemas de negócio através da Análise de Dados, Engenharia de Dados, Inteligência Artificial, Machine Learning (aprendizado de máquina) e Deep Learning. 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/rodrigolima82/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
