@@ -4,7 +4,8 @@
 
 ### Deep Learning
 
-- [Project 1 Title](http://example.com/)
+- [Object Detection Images](https://github.com/RodrigoLima82/ComputerVision/blob/master/Videos/Object_detection_images.mp4)
+- [Object Detection Video](https://github.com/RodrigoLima82/ComputerVision/blob/master/Videos/Object_detection_video.mp4)
 
 ---
 
@@ -21,5 +22,9 @@
 ---
 
 ### Statistic
+
+- [Project 1 Title](http://example.com/)
+
+### Kaggle's Competitions
 
 - [Project 1 Title](http://example.com/)
