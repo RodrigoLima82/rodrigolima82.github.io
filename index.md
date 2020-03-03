@@ -12,7 +12,7 @@
 ### Deep Learning
 ---
 
-- [Object Detection Using Tensorflow.js e Node.js](https://github.com/RodrigoLima82/ComputerVision)
+- [Object Detection Using Tensorflow.js e Node.js](https://github.com/RodrigoLima82/ComputerVision/tree/master/Deteccao_de_objetos)
 
 
 ### Machine Learning
