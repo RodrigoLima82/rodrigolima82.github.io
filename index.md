@@ -1,4 +1,4 @@
-## Portfolio de Projetos Pessoais
+## Personal Projects Portfolio
 
 
 ### Kaggle's Competitions
@@ -12,8 +12,7 @@
 ### Deep Learning
 ---
 
-- [Object Detection Images](https://github.com/RodrigoLima82/ComputerVision/blob/master/Videos/Object_detection_images.mp4)
-- [Object Detection Video](https://github.com/RodrigoLima82/ComputerVision/blob/master/Videos/Object_detection_video.mp4)
+- [Object Detection Using Tensorflow.js e Node.js](https://github.com/RodrigoLima82/ComputerVision)
 
 
 ### Machine Learning
