@@ -7,6 +7,7 @@
 - [NFL Big Data Bowl](https://www.kaggle.com/c/nfl-big-data-bowl-2020)
 - [2019 Data Science Bowl](https://www.kaggle.com/c/data-science-bowl-2019)
 - [ASHRAE - Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction)
+- [M5 Forecasting - Accuracy](https://www.kaggle.com/c/m5-forecasting-accuracy)
 
 
 ### Deep Learning
